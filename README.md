@@ -7,4 +7,6 @@ This is a repo containing my best data science projects
    https://public.tableau.com/app/profile/shariq5117/viz/Top5FootballLeaguesinEurope/Top5FootballLeagues
 3. Loan Application Risks
    https://github.com/shariqmalik10/Loan-Risks
+4. California House Pricing
+   https://github.com/shariqmalik10/California-House-Pricing
 
